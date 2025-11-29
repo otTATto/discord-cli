@@ -1,4 +1,4 @@
-# DockerCLI
+# DiscordCLI
 
 Discord を CLI で操作するクライアント [**discordo**](https://github.com/ayn2op/discordo) を動かすための Docker コンテナです。
 
